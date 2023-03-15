@@ -1,6 +1,6 @@
 # Docker file for Ubuntu with OpenJDK 18 and Tomcat 9.
 FROM ubuntu:latest
-LABEL maintainer="Karl Hill <karl.hill@nasa.gov>"
+LABEL maintainer="arif"
 
 # Set environment variables
 ENV TOMCAT_VERSION 9.0.71
